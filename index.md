@@ -16,3 +16,13 @@ if (presentDay) {
   console.log("Come to the Wired.");
 }
 ```
+- [x] Wake up
+- [x] Caffeine
+- [x] Can't sleep
+- [x] Regret
+- [ ] Exhaustion wins
+- [ ] Wake up
+- [ ] Caffeine
+- [ ] Can't sleep
+- [ ] Regret
+- [ ] Exhaustion wins
